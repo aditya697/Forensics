@@ -10,4 +10,5 @@ So, By using ```fcrackzip``` tool we can find the password using dictionary atta
 We get the ```password:- perfectlypunk```
 
 Using if we open the image we the flag
+
 ```FLAG:-inctfj{dw1ght_1s_cr4zy_bu7_awes0me}```
