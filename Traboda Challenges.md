@@ -35,3 +35,14 @@ By using ```hexedit```we edit the file format to `.PNG`.
 By clearing the remaining ``chunks`` we can open the image and find the flag.
 
 ```FLAG:-inctfj{WH4t_ar3_pNgCHUnkS?}```
+
+# ***MAGIC IN DIGITS***
+
+We are given a .png file. If we try to open the image.
+It won't open because the file is corrupted.
+
+By using ```hexedit```we edit the file format to `.PNG`.
+
+By clearing the remaining ``chunks`` we can open the image and find the flag.
+
+```FLAG:-flag{Chunks_4r3_1mpor74an7_f0r_1mage5}```
