@@ -36,6 +36,15 @@ By clearing the remaining ``chunks`` we can open the image and find the flag.
 
 ```FLAG:-inctfj{WH4t_ar3_pNgCHUnkS?}```
 
+# ***JAY CHOT***
+ We are given a `.jpg` file. 
+ But the file format is not correct by editing 
+ the file format. 
+ 
+ We get the flag if we open the image.
+ 
+ ```FLAG:-flag{a4aa04741a8d3a952a7ec88457991b97}```
+ 
 # ***MAGIC IN DIGITS***
 
 We are given a .png file. If we try to open the image.
