@@ -24,3 +24,14 @@ and use it as the
 ```password:-R3DDIT_US3R``` for the the zip file we get the flag.
 
 ```FLAG:-inctfj{1ts_4ll_f1ne_tru5t_m3}```
+
+# ***YOU CAN'T SEE ME***
+
+We are given a .png file. If we try to open the image.
+It won't open because the file is corrupted.
+
+By using ```hexedit```we edit the file format to `.PNG`.
+
+By clearing the remaining ``chunks`` we can open the image and find the flag.
+
+```FLAG:-inctfj{WH4t_ar3_pNgCHUnkS?}```
