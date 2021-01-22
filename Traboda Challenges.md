@@ -36,7 +36,7 @@ By clearing the remaining ``chunks`` we can open the image and find the flag.
 
 ```FLAG:-inctfj{WH4t_ar3_pNgCHUnkS?}```
 
-# ***JAY CHOT***
+# ***JAY-CHOT***
  We are given a `.jpg` file. 
  But the file format is not correct by editing 
  the file format. 
