@@ -55,3 +55,12 @@ By using ```hexedit```we edit the file format to `.PNG`.
 By clearing the remaining ``chunks`` we can open the image and find the flag.
 
 ```FLAG:-flag{Chunks_4r3_1mpor74an7_f0r_1mage5}```
+
+# ***ALWAYS HAS BEEN***
+
+We are given a ``.PNG`` file. It has data inside it.
+To extract data from ``.PNG`` file we can use zsteg tool.
+Or we can use this image analyser ``https://compress-or-die.com/analyze``.
+We get flag using this zsteg tool.
+
+```FLAG:-inctfj{th3_fl4g_wa5_liter4lly_ins1de_4_m3me}```
