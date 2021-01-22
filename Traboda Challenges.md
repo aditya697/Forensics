@@ -1,4 +1,17 @@
-# ***THE OFFICE TROUBLE 1***
+# ***SNOW SNOW***
+
+We are given a text. The flag is hidden in the spaces.
+Using stegsnow tool we can find what is hidden.
+
+```stegsnow -C <filename>```
+
+We get ```ntio{eP1B35x4K3_aB3O0_q5_K00t}```
+By rotating the bit by 18 we get the flag coz the flag starts with *f*
+ we can guees can that it is rotated by 18.
+ 
+ ```FLAG:-flag{wH1T35p4C3_sT3G0_i5_C00l}```
+ 
+ # ***THE OFFICE TROUBLE 1***
 
 We are given a zip file in which there is jpeg file.
 When try to open jpeg file we know that it is password encrypted.
