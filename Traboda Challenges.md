@@ -11,6 +11,16 @@ By rotating the bit by 18 we get the flag coz the flag starts with *f*
  
  ```FLAG:-flag{wH1T35p4C3_sT3G0_i5_C00l}```
  
+ # ***10111001***
+ 
+  We are given `.PNG`. We should use zsteg tool.
+  
+  Then we get ``` "Here is your flag : NFXGG5DGNJ5TI3K7ORUDGX2MGNAVG5C7GVUUO3RRMYYWGNDOKRPWEVKUL4YV6YZUJZPXI4RQOVBEYM27LEYHKXZUL5WDAVD5"```
+  
+  By using BASE32 decoding, we get the flag.
+  
+  ```FLAG:-inctfj{4m_th3_L3ASt_5iGn1f1c4nT_bUT_1_c4N_tr0uBL3_Y0u_4_l0T}```
+  
  # ***THE OFFICE TROUBLE 1***
 
 We are given a zip file in which there is jpeg file.
