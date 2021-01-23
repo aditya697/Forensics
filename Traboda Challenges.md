@@ -100,3 +100,12 @@ We get flag using this zsteg tool.
 b'flag{M15sI0N_aCc0MPL15h3D}'
 ``` 
  ```FLAG:-flag{M15sI0N_aCc0MPL15h3D}```
+
+# ***BACK TO SAN ANDREAS***
+
+We a given a ``.jpg`` file.Using jsteg tool We can find the flag.
+
+```jsteg reveal <filename.jpg> <output_filename>``` If we open the output file we can see the flag.
+
+```FLAG:-inctfj{gr0ve_5treet_f0r_l1fe}```
+
