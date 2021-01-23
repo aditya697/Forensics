@@ -87,3 +87,12 @@ Or we can use this image analyser ``https://compress-or-die.com/analyze``.
 We get flag using this zsteg tool.
 
 ```FLAG:-inctfj{th3_fl4g_wa5_liter4lly_ins1de_4_m3me}```
+
+# ***DETAILED VEIW***
+ We are given a .PNG file.
+ 
+ If we do ``string <filename>`` we get in the ending.
+ 
+ Opening that we see a text.By doing BASE64 decoding we get the flag
+ 
+ ```FLAG:-flag{M15sI0N_aCc0MPL15h3D}```
