@@ -109,3 +109,13 @@ We a given a ``.jpg`` file.Using jsteg tool We can find the flag.
 
 ```FLAG:-inctfj{gr0ve_5treet_f0r_l1fe}```
 
+# ***MY_FIRST_STEGNOGRAPHY***
+
+We are given 2 ``.jpg`` files. We can get the flag using ``steghide``.
+
+For the first file there is no passphrase. So by using ``steghide extract -sf <filename>`` We get the password for the next file.
+We get passphrase as ``d4rk_s1d3``
+
+By using ``steghide -sf <filename>`` and giving passphrase that we got earlier we get the flag.
+
+```FLAG:-inctfj{w3_4r3_pl4nt1ng_4_b0mb}```
