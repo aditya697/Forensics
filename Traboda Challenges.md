@@ -93,6 +93,10 @@ We get flag using this zsteg tool.
  
  If we do ``string <filename>`` we get in the ending.
  
- Opening that we see a text.By doing BASE64 decoding we get the flag
- 
+ Opening that we see a text.By doing BASE64 decoding we get the flag.
+ ```
+>>> from base64 import b64decode
+>>> b64decode(b'ZmxhZ3tNMTVzSTBOX2FDYzBNUEwxNWgzRH0=')
+b'flag{M15sI0N_aCc0MPL15h3D}'
+``` 
  ```FLAG:-flag{M15sI0N_aCc0MPL15h3D}```
