@@ -91,7 +91,7 @@ We get flag using this zsteg tool.
 # ***DETAILED VEIW***
  We are given a .PNG file.
  
- If we do ``string <filename>`` we get in the ending.
+ If we do ``string <filename>`` we get a link ``https://pastebin.com/KudUCfTC``in the ending.
  
  Opening that we see a text.By doing BASE64 decoding we get the flag.
  ```
