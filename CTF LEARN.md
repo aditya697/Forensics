@@ -29,3 +29,10 @@ We can see a flag but that is not the correct flag.
 The bellow it must be base64decoded to get the flag.
 
 ```FLAG:-CTFlearn{SkiBanff}```
+
+# *PikesPeak*
+
+We are given a .jpg file. By using strings<filename>.
+We get many flag trying out apropriate ones one will be correct.
+
+```FLAG:-CTFlearn{Gandalf}```
