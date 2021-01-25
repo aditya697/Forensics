@@ -5,4 +5,11 @@ we know that the file has extended data.
 
 To extract data use foremost -v <filename>
 
-FLAG:-ABCTF{B1nw4lk_is_us3ful}
+```FLAG:-ABCTF{B1nw4lk_is_us3ful}```
+
+# *WOW.. So meta*
+
+We are given .jpg file.
+By using exiftool we can find the flag.
+
+```FLAG:-flag{EEe_x_I_FFf}```
