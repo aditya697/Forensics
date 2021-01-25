@@ -91,7 +91,7 @@ We get flag using this zsteg tool.
 # ***DETAILED VEIW***
  We are given a .PNG file.
  
- If we do ``string <filename>`` we get a link ``https://pastebin.com/KudUCfTC``in the ending.
+ If we do ``strings <filename>`` we get a link ``https://pastebin.com/KudUCfTC``in the ending.
  
  Opening that we see a text.By doing BASE64 decoding we get the flag.
  ```
@@ -124,7 +124,7 @@ By using ``steghide -sf <filename>`` and giving passphrase that we got earlier w
 
 We are given a ``.PNG``. By using ``pngcheck -v <filename>``
 
-We get that after IEND data is there.Using ``foremost -v cat`` we can extract the file.
+We get that after IEND data is there.Using ``foremost -v <filename>`` we can extract the file.
 
 We get a file which has 4 images in that we will have flag in 1 image.
 
