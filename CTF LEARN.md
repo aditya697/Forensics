@@ -20,3 +20,12 @@ By using exiftool we can find the flag.
  By using exiftool we get the flag.
  
  ```FLAG:-CTFlearn{ILoveJakarta}```
+
+# *Snow Board*
+
+We are given image. If we use strings <filename>.
+We can see a flag but that is not the correct flag.
+
+The bellow it must be base64decoded to get the flag.
+
+```FLAG:-CTFlearn{SkiBanff}```
