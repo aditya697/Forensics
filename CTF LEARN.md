@@ -1,0 +1,8 @@
+# *Binwalk*
+
+We are given a .PNG file. By using pngcheck -v <filename>
+we know that the file has extended data.
+
+To extract data use foremost -v <filename>
+
+FLAG:-ABCTF{B1nw4lk_is_us3ful}
