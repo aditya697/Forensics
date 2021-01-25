@@ -13,3 +13,10 @@ We are given .jpg file.
 By using exiftool we can find the flag.
 
 ```FLAG:-flag{EEe_x_I_FFf}```
+ 
+ # *Rubber duck*
+ 
+ We are given a .jpg file. 
+ By using exiftool we get the flag.
+ 
+ ```FLAG:-CTFlearn{ILoveJakarta}```
