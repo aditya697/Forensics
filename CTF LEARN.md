@@ -41,7 +41,7 @@ We get many flag trying out apropriate ones one will be correct.
 
 We are given a .jpg file. By using strings<filename>.We get
 ```
- CTFlearn{I_Like_Math_x_y}
+CTFlearn{I_Like_Math_x_y}
 where x and y are the solution to these equations:
 3x + 5y = 31
 7x + 9y = 59
