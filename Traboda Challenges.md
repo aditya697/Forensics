@@ -82,9 +82,12 @@ By clearing the remaining ``chunks`` we can open the image and find the flag.
 # ***ALWAYS HAS BEEN***
 
 We are given a ``.PNG`` file. It has data inside it.
-To extract data from ``.PNG`` file we can use zsteg tool.
+To extract data from ``.PNG`` file we can use stegsolve tool.
+By using ``java -jar stegsolve.jar`` being in the `bin` directory.
+When we open the file using stegsolve and when we see different photos by clicking next.
 Or we can use this image analyser ``https://compress-or-die.com/analyze``.
-We get flag using this zsteg tool.
+We get flag using this stegsolve tool.
+
 
 ```FLAG:-inctfj{th3_fl4g_wa5_liter4lly_ins1de_4_m3me}```
 
