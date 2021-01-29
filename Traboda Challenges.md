@@ -137,6 +137,6 @@ We get a file which has 4 images in that we will have flag in 1 image.
 
 We a given ``pdf file`` which is password protected.
 
-By using ``PDFcrack`` we cam find the ``password = fear420``
+By using ``PDFcrack`` ```pdfcrack -f <filename> -w <wordlist>``` we cam find the ``password = fear420``
 
 ```FLAG:-inctfj{ass1stant_t0_th3_regi0nal_man4ger}```
