@@ -132,3 +132,11 @@ We get that after IEND data is there.Using ``foremost -v <filename>`` we can ext
 We get a file which has 4 images in that we will have flag in 1 image.
 
 ```FLAG:-inctfj{y0u_c4nt_s33_m3!!}```
+
+# ***THE OFFICE TROUBLE***
+
+We a given ``pdf file`` which is password protected.
+
+By using ``PDFcrack`` we cam find the ``password = fear420``
+
+```FLAG:-inctfj{ass1stant_t0_th3_regi0nal_man4ger}```
