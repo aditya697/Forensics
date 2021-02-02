@@ -133,7 +133,7 @@ We get a file which has 4 images in that we will have flag in 1 image.
 
 ```FLAG:-inctfj{y0u_c4nt_s33_m3!!}```
 
-# ***THE OFFICE TROUBLE***
+# ***THE OFFICE TROUBLE 2***
 
 We a given ``pdf file`` which is password protected.
 
