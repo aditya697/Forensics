@@ -24,7 +24,14 @@ We are given a qr code. By using zbarimg we get the flag.
 
 We are given a image by using stegoveritas we can find the flag.
 
-```stegoveritas <filename>``` by opening the we can see the flag in trailing data.
+```stegoveritas <filename>``` by opening the results we can see the flag in trailing data.
 
 *```FLAG:- inctf{5tr1ng5_4r3_us3ful_1_gu3s5}```*
 
+# *COUNTER-STRIKE*(SH_challenge2)
+
+We are given an image by using stegoveritas we can find the flag.
+
+```stegoveritas <filename>``` by opening the results we can see flag in in base64 in the trailing data. By encoding the from we get the flag.
+
+*```FLAG:- Enimi3s_ah3ad```*
