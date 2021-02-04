@@ -12,5 +12,11 @@ We are given a qr code. By using zbarimg we get the flag.
 
 *```FLAG:- flag{QR_code_scanned}```*
 
+# *ZEBRA*(s_challenge2)
 
+We are given a image by using stegoveritas we can find the flag.
+
+```stegoveritas <filename>``` by opening the we can see the flag in trailing data.
+
+*```FLAG:- inctf{5tr1ng5_4r3_us3ful_1_gu3s5}```*
 
