@@ -1,5 +1,16 @@
-# *SPIDERMAN*
+# *SPIDERMAN*(E-challenge2)
 
 We are given an image. By using exiftool we get a text in base64 in the comment.
 
-By doing base64encoding we get the flag.
+By doing base64encoding we get the flag.``aW5jdGZ7M3gxZjcwMGxfMTVfbjFjZV8hX2d1M3NzX19fISEhIX0=``
+
+*```FLAG:- inctf{3x1f700l_15_n1ce_!_gu3ss___!!!!}```*
+
+# *QRCODE2*(Z-challenge2)
+
+We are given a qr code. By using zbarimg we get the flag.
+
+*```FLAG:- flag{QR_code_scanned}```*
+
+
+
