@@ -35,3 +35,14 @@ We are given an image by using stegoveritas we can find the flag.
 ```stegoveritas <filename>``` by opening the results we can see flag in in base64 in the trailing data. By encoding the from we get the flag.
 
 *```FLAG:- Enimi3s_ah3ad```*
+
+# *REVERSE*
+
+We are given text file which says reverse and we given one more file.
+
+By using strings with the file along grep we can find the flag in reverse.
+
+By using ```"}ss3ug_1_gn1sr3ver_t4_d00g_3ra_u0Y{ftcn"[::-1]``` we get flag by putting i in front.
+
+*```FLAG:-inctf{Y0u_ar3_g00d_4t_rev3rs1ng_1_gu3ss}```*
+
