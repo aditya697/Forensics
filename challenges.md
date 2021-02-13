@@ -36,7 +36,7 @@ We are given an image by using stegoveritas we can find the flag.
 
 Now by using steghide tool we get the flag. ```steghide extract -sf <filename>```.
 
-*```FLAG:-inctf{fr13ndly_f1re_is_s0met1m3s_d4ng3r0u5}```
+*```FLAG:-inctf{fr13ndly_f1re_is_s0met1m3s_d4ng3r0u5}```*
 
 # *REVERSE*
 
