@@ -32,9 +32,11 @@ We are given a image by using stegoveritas we can find the flag.
 
 We are given an image by using stegoveritas we can find the flag.
 
-```stegoveritas <filename>``` by opening the results we can see flag in in base64 in the trailing data. By encoding the from we get the flag.
+```stegoveritas <filename>``` by opening the results we can see flag in in base64 in the trailing data. By encoding the from we get the passsphrase ```Enimi3s_ah3ad```.
 
-*```FLAG:- Enimi3s_ah3ad```*
+Now by using steghide tool we get the flag. ```steghide extract -sf <filename>```.
+
+*```FLAG:-inctf{fr13ndly_f1re_is_s0met1m3s_d4ng3r0u5}```
 
 # *REVERSE*
 
