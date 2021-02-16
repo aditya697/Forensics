@@ -140,3 +140,12 @@ We a given ``pdf file`` which is password protected.
 By using ``PDFcrack`` ```pdfcrack -f <filename> -w <wordlist>``` we cam find the ``password = fear420``
 
 ```FLAG:-inctfj{ass1stant_t0_th3_regi0nal_man4ger}```
+
+# ***HIDDEN DATA***
+
+We are given a zip file which is corrupted. By changing the header of the zip file.
+
+By unzipping it we get the flag.
+
+*```FLAG:-inctfj{GR3aT_m155i0n_4Cc0mpL15h3D}```*
+
