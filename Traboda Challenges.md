@@ -149,3 +149,11 @@ By unzipping it we get the flag.
 
 *```FLAG:-inctfj{GR3aT_m155i0n_4Cc0mpL15h3D}```*
 
+# ***CORRUPTED FILE***
+
+We are given a zip file which is corrupted. By changing the header of the zip file.
+
+By unzipping it we get a base64 encoded string by decoding it we get the flag.
+
+*```FLAG:-flag{9e360084196a092a15c5c44b54934bfc}```*
+
