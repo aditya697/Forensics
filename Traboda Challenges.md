@@ -157,3 +157,12 @@ By unzipping it we get a base64 encoded string by decoding it we get the flag.
 
 *```FLAG:-flag{9e360084196a092a15c5c44b54934bfc}```*
 
+# ***CRACK PDF***
+
+We are given pdf file, which is password protected.
+
+We can crack the password using pdfcrack dictionary attack.
+
+After getting the password when we open the and seacrh for the word flag we get the flag.
+
+*```FLAG:-flag{1ae06a29a7abd6c07dba8976698f756b987f734d```*
