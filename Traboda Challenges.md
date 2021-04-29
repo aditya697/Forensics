@@ -173,7 +173,7 @@ By unzipping it we get a base64 encoded string by decoding it we get the flag.
 
 We are given pdf file, which is password protected.
 
-We can crack the password using pdfcrack dictionary attack.
+We can crack the password using pdfcrack dictionary attack ```diosayudameenelesut```.
 
 After getting the password when we open the and seacrh for the word flag we get the flag.
 
