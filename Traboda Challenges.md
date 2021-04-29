@@ -11,7 +11,7 @@ By rotating the bit by 18 we get the flag coz the flag starts with *f*
  
  ```FLAG:-flag{wH1T35p4C3_sT3G0_i5_C00l}```
  
- # ***snow man***
+ # ***SNOW MAN***
  
  We are give a text. The text says password is ``thisiseasy``
  Using stegsnow tool we can find hidden data in text with password.
