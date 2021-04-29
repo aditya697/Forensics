@@ -11,6 +11,18 @@ By rotating the bit by 18 we get the flag coz the flag starts with *f*
  
  ```FLAG:-flag{wH1T35p4C3_sT3G0_i5_C00l}```
  
+ # ***snow man***
+ 
+ We are give a text. The text says password is ``thisiseasy``
+ Using stegsnow tool we can find hidden data in text with password.
+ 
+ ```stegsnow -C -p "thisiseasy" <filename>```
+ 
+ We get ``aW5jdGZqe2g0aDRfc3QzZ3NuMHdfaTVfYzAwMDAwMDAxfQ==``
+ By doing base64 we get the flag.
+ 
+ ```FLAG:-inctfj{h4h4_st3gsn0w_i5_c00000001}```
+ 
  # ***10111001***
  
   We are given `.PNG`. We should use zsteg tool.
